@@ -1,0 +1,51 @@
+#mero
+       {
+           color: 
+
+ #99b3ff
+       }
+    
+    p
+       {
+           color: 
+ #fff
+       }
+#home
+{
+    
+  
+}
+.clr
+{
+    background-color: rgba(0,0,0,0.6)
+}
+.navbar-dark .navbar-nav .nav-link
+{
+    color: #fff;
+}
+.navbar-dark .navbar-nav .nav-link:hover
+{
+    color: #99ccff ;
+}
+#typed-strings h1
+{
+    font-size: 60px;
+}
+
+#c
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+#page
+{
+    position: relative;
+    width: 1500px
+    height: 550px;
+      background-image: url(../images/space.jpg);
+    background-position: center center;
+    background-size: 100% 100%;
+    padding: 100px;
+}
