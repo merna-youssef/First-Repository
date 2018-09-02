@@ -71,3 +71,17 @@ function moveCircle()
             }   
 }
 setInterval(drawCircle,10)
+
+$("document").ready(function()
+                   {
+  var typed = new Typed('#typedd',{
+                   strings:["About Project ","web design inspiration"],
+                   backSpeed: 40,
+                   typeSpeed: 40,
+                   loop: true,
+                  
+                 });  
+    
+})
+
+
