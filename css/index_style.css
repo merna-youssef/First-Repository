@@ -49,3 +49,105 @@
     background-size: 100% 100%;
     padding: 100px;
 }
+
+
+
+
+
+
+
+.hambozo
+{
+    color:#ec3237; 
+}
+
+.gall
+{
+    background-color:darkgrey;
+    background-attachment: fixed;
+  
+   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center center;
+    
+    
+}
+
+.hs
+{
+    background-color:  #ebebe0;
+
+    padding-bottom:50px;
+}
+
+.marsel
+{
+    border: solid 4px #ec3237; 
+}
+
+
+#contact
+{
+    background-color: #F2F2F2;
+    padding: 40px 20px;
+    height: 600px;
+    
+}
+.paa
+{
+    text-align: center;
+    position: relative;
+}
+ .paa h5:after
+{
+    content:"";
+    width:3%;
+    height: 4px;
+    background-color: coral;
+    position: absolute;
+    top:10px;
+    right:415px;
+}
+
+.paa h5:before
+{
+    content:"";
+    width:3%;
+    height: 4px;
+    background-color: coral;
+    position: absolute;
+    top:10px;
+    left:415px;
+}
+
+ button:hover
+{
+    
+    background-color: white !important;
+    
+    color: coral !important;
+    
+}
+
+.content p
+{
+    color: darkgrey;
+    font-size: 20px;
+    
+}
+.mn
+{
+     border:solid 2px gray;
+    padding:5px 5px; 
+    color: gray; 
+    background-color: #F2F2F2;
+    margin-bottom: 10px;
+    
+}
+
+ .mn:hover
+{
+    color: coral !important;
+    border:solid 2px coral;
+}
